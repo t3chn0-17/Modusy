@@ -31,7 +31,7 @@ programming language I learned.
 WhatsApp username: t3chn0_17
 
 My Social Media accounts:
-[TikTok](https://www.tiktok.com/@t3chn0_17)
+[TikTok](https://www.tiktok.com/@t3chn0_17),
 [X](https://www.x.com/t3chn0_17)
 
 Hire me on Fiverr: [Fiverr](https://www.fiverr.com/sellers/abdo_essam_tech/)
