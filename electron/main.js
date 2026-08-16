@@ -35,18 +35,16 @@ function createWindow() {
     height: 590,
     transparent: true,
     frame: false,
-    resizable: false,
+    resizable: true,
     webPreferences: {
       nodeIntegration: true,
-      contextIsolation: false, // Allows easy development interaction
+      contextIsolation: false,
     },
   })
 
-  // If we are developing locally, load the local Vite server port
   if (process.env.VITE_DEV_SERVER_URL) {
     mainWindow.loadURL(process.env.VITE_DEV_SERVER_URL)
   } else {
-    // If built for production, load the static HTML file
     mainWindow.loadFile(path.join(process.env.DIST, 'index.html'))
   }
 }
