@@ -2,13 +2,15 @@ import { useState } from 'react'
 import TitleBar from './components/title-bar/titleBar'
 import SongCon from './components/song-container/songCon'
 import SideBar from './components/side-bar/sideBar'
-// import reactLogo from './assets/react.svg'
-// import viteLogo from './assets/vite.svg'
-// import heroImg from './assets/hero.png'
+
+
+import "@fontsource/orbitron/400.css";
+import "@fontsource/orbitron/700.css";
+import "@fontsource/inter/400.css";
+import "@fontsource/inter/600.css";
 
 import './App.css'
 
-// Assets
 import appIcon from './assets/appIcon.png'
 import minIcon from './assets/minimize.png'
 import maxIcon from './assets/square.png'
