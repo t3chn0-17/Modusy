@@ -36,7 +36,7 @@ function createWindow() {
     transparent: true,
     frame: false,
     resizable: true,
-    minHeight: 600,
+    minHeight: 480,
     minWidth: 760,
     webPreferences: {
       nodeIntegration: true,
