@@ -6,6 +6,8 @@ This is a modern desktop music player written
 
 in JS, Python & SQLite3.
 
+---
+
 ## Used Tech
 
 **Electron.js** to make program GUI and used with it
@@ -16,6 +18,8 @@ and the Python engine that handles every input and output
 
 **Async** in Python to make sure everything is working in asynchronous
 without needing to handle everything one-by-one
+
+---
 
 ## License
 
@@ -30,6 +34,7 @@ permission from the copyright holder.
 
 See LICENSE for the complete terms.
 
+---
 
 ## About The Developer
 
@@ -38,6 +43,8 @@ I'm a software engineer with 4 years experience of programming.
 
 I love programming in Python I'm pro in it and it's the first
 programming language I learned.
+
+---
 
 ## Contact Me
 
